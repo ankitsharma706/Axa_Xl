@@ -1,0 +1,6 @@
+{
+  "name": "AXA XL Enterprise AI Dashboard",
+  "description": "Premium light-themed enterprise AI project intelligence dashboard with comprehensive project evaluations, PRDs, and implementation roadmaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
